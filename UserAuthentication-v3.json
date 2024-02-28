@@ -1,7 +1,7 @@
 {
 "$metadata": {
 "uris": {
-"jsonLdContext": "ipfs://QmSJQxmACFRAuFwUuJ6mjJm3st2QJqiKzcSsoWRfBMfp5G",
+"jsonLdContext": "https://raw.githubusercontent.com/KavinduShamalka/Authentication/main/auth-v3.json-ld",
 "jsonSchema": "https://raw.githubusercontent.com/KavinduShamalka/Authentication/main/UserAuthentication-v3.json"
 },
 "version": "1.0",
