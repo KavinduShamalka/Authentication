@@ -16,7 +16,7 @@
             "@type": "xsd:string"
           }
         },
-        "@id": "urn:uuid:26ae5e24-c609-487b-bb71-61c2d115f692"
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/Authentication/main/UserAuthentication-v3.json"
       }
     }
   ]
