@@ -1,23 +1,23 @@
 {
-"@context": [
-{
-"@protected": true,
-"@version": 1.1,
-"id": "@id",
-"type": "@type",
-"UserAuthentication": {
-"@context": {
-"@propagate": true,
-"@protected": true,
-"polygon-vocab": "urn:uuid:716b909e-afb1-4d4d-98c1-e4208030369e#",
-"xsd": "http://www.w3.org/2001/XMLSchema#",
-"auth": {
-"@id": "polygon-vocab:auth",
-"@type": "xsd:string"
-}
-},
-"@id": "urn:uuid:26ae5e24-c609-487b-bb71-61c2d115f692"
-}
-}
-]
+  "@context": [
+    {
+    "@protected": true,
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "UserAuthentication": {
+            "@context": {
+            "@propagate": true,
+            "@protected": true,
+            "polygon-vocab": "urn:uuid:716b909e-afb1-4d4d-98c1-e4208030369e#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "auth": {
+            "@id": "polygon-vocab:auth",
+            "@type": "xsd:string"
+          }
+        },
+        "@id": "urn:uuid:26ae5e24-c609-487b-bb71-61c2d115f692"
+      }
+    }
+  ]
 }
